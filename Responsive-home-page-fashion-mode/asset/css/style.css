@@ -1,0 +1,62 @@
+/* GOOGLE FONTS */ 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+:root{
+    /* COLORS */
+    --primary-color:hsl(280, 7%, 8%); 
+    --secondary-color: hsl(300, 20%, 95%); 
+    --transparent-white-color: hsla(300, 20%, 95%, 0.295); 
+    --brown-color: hsl(37, 15%, 27%); 
+    --light-beige-color: hsl(38, 43%, 76%);
+    --blue-color: hsl(225, 23%, 10%); 
+    --shadow-navbar: hsl(0, 0%, 92%);
+    --tranparant-color: hsla(0, 0%, 0%, 0); 
+
+    /* FONT-SIZE */
+    --big-font-size: 6em; 
+    --medium-font-size: 3em; 
+    --title-font-size: 1.3em; 
+    --normal-font-size: 1em; 
+    
+    /* FONT-WEIGHT */ 
+    --big-font-weight: 800; 
+    --medium-font-weight: 660; 
+    --normal-font-weight: 500; 
+
+    /* FONT-SIZE ICON */
+    --normal-icon-font-size: 1.1em; 
+    --small-icon-font-size: 1em; 
+
+    /* FONT-SIZE ICON */
+    --normal-icon-font-weight: 500; 
+    --small-icon-font-weight: 400; 
+}
+
+/* BASE */
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    font-family: 'Poppins';
+    height: auto;
+    background-image: url('../img/lovely-young-parisian-woman-with-brunette-hair-stylish-beret-beige-trench-coat-black-bag-standing-old-stairs-sensitively-posing-outdoors.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow-x: hidden;
+}
+
+
+/* NAVBAR */
+
+    /* BREAKPOINTS */ 
+
+
+
+/* HOME PAGE */
+
+    /* BREAKPOINT */
