@@ -3,7 +3,6 @@
 * Responsive-home-page-Fashion-Mode using HTML, CSS & JS.
 * Simple design for easy navigation.
 
-
 * Icon Source:
     * 👉 : https://remixicon.com/
     
